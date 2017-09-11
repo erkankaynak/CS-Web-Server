@@ -1,0 +1,5 @@
+D:\Projects\C#\Calismalar\WebServer\WebServer\WebServer\bin\Debug\WebServer.exe
+D:\Projects\C#\Calismalar\WebServer\WebServer\WebServer\bin\Debug\WebServer.pdb
+D:\Projects\C#\Calismalar\WebServer\WebServer\WebServer\obj\Debug\WebServer.csprojResolveAssemblyReference.cache
+D:\Projects\C#\Calismalar\WebServer\WebServer\WebServer\obj\Debug\WebServer.exe
+D:\Projects\C#\Calismalar\WebServer\WebServer\WebServer\obj\Debug\WebServer.pdb
